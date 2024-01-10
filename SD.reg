@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\ACPI]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\ACPI\PNP0D40]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\ACPI\PNP0D40\0]
+"Capabilities"=dword:00000030
+"ContainerID"="{00000000-0000-0000-ffff-ffffffffffff}"
+"HardwareID"=hex(7):41,00,43,00,50,00,49,00,5c,00,50,00,4e,00,50,00,30,00,44,\
+  00,34,00,30,00,00,00,2a,00,50,00,4e,00,50,00,30,00,44,00,34,00,30,00,00,00,\
+  00,00
+"ClassGUID"="{a0a588a4-c46f-4b37-b7ea-c82fe89870c6}"
+"Service"="sdbus"
+"DeviceDesc"="@sdbus.inf,%acpi\\pnp0d40.devicedesc%;SDA Standard Compliant SD Host Controller (compatible)"
+"Driver"="{a0a588a4-c46f-4b37-b7ea-c82fe89870c6}\\0000"
+"Mfg"="@sdbus.inf,%generic%;SDA Standard Compliant SD Host Controller Vendor"
+"UINumberDescFormat"="@sdbus.inf,%SDBUSSlot%;SD Host Slot %1!u!"
+"ConfigFlags"=dword:00000000
