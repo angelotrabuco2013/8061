@@ -1,4 +1,4 @@
- ## The files provided here:
+## The files provided here:
 
 * Fixed HAL.DLL for 8061 for QEMU
 * Registry file to patch the INACCESIBLE_BOOT_DEVICE bsod for QEMU.
